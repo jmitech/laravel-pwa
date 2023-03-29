@@ -1,6 +1,6 @@
 {
-    "name": "silviolleite/laravelpwa",
-    "description": "Looks like an app, feels like an app, but NOT an app.",
+    "name": "jmitech/laravelpwa",
+    "description": "Adds PWA support to Laravel",
     "license": "MIT",
     "keywords": [
         "laravel",
