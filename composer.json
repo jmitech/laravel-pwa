@@ -1,6 +1,6 @@
 {
     "name": "jmitech/laravelpwa",
-    "description": "Adds PWA support to Laravel",
+    "description": "Adds basic PWA features to Laravel",
     "license": "MIT",
     "keywords": [
         "laravel",
@@ -12,14 +12,18 @@
         {
             "name": "Silvio Luis Leite",
             "email": "silviolleite@gmail.com"
+        },
+        {
+            "name": "jm caron",
+            "email": "jmcaron@boblarouche.com"
         }
-    ],
+    ],  
     "autoload": {
         "psr-4": {
             "LaravelPWA\\": ""
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
